@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T01:43:55.365Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="wyPiAislt6xldosBi-sB" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-05T01:44:46.923Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="dSkwlmgrFZOoI1OkEuv4" version="22.1.16" type="github">
   <diagram name="Page-1" id="MlF_dzwxMxhkYbkUneEa">
     <mxGraphModel dx="1323" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="#ffffff" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="712ERAdk77Vl7Lxlt1qB-17" value="&lt;b&gt;HOMOMORPHIC ENCRYPTION&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" parent="712ERAdk77Vl7Lxlt1qB-10" vertex="1">
           <mxGeometry x="180" y="35" width="220" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="712ERAdk77Vl7Lxlt1qB-12" value="" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#000000;" parent="712ERAdk77Vl7Lxlt1qB-10" vertex="1">
+        <mxCell id="712ERAdk77Vl7Lxlt1qB-12" value="" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;strokeWidth=2;" parent="712ERAdk77Vl7Lxlt1qB-10" vertex="1">
           <mxGeometry x="45" y="31.89" width="60" height="61.224489795918366" as="geometry" />
         </mxCell>
         <mxCell id="712ERAdk77Vl7Lxlt1qB-13" value="&lt;div&gt;&lt;b&gt;DATASET&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="712ERAdk77Vl7Lxlt1qB-10" vertex="1">
@@ -34,7 +34,7 @@
         <mxCell id="712ERAdk77Vl7Lxlt1qB-19" value="" style="group;fontColor=#000000;" parent="9P9yUoY3Di7MT4rerMMI-18" vertex="1" connectable="0">
           <mxGeometry x="18.412698412698404" y="48.18181818181819" width="126.58730158730158" height="131.8181818181818" as="geometry" />
         </mxCell>
-        <mxCell id="712ERAdk77Vl7Lxlt1qB-20" value="" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#000000;" parent="712ERAdk77Vl7Lxlt1qB-19" vertex="1">
+        <mxCell id="712ERAdk77Vl7Lxlt1qB-20" value="" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;strokeWidth=2;" parent="712ERAdk77Vl7Lxlt1qB-19" vertex="1">
           <mxGeometry x="13.809523809523808" width="55.238095238095234" height="54.54545454545455" as="geometry" />
         </mxCell>
         <mxCell id="712ERAdk77Vl7Lxlt1qB-21" value="&lt;b&gt;ENCRYPTED&lt;/b&gt;&lt;div&gt;&lt;b&gt;DATASET&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="712ERAdk77Vl7Lxlt1qB-19" vertex="1">
